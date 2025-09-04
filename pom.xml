@@ -29,6 +29,8 @@
   </dependencies>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <sonar.projectKey>my-maven-app</sonar.projectKey>
+  <sonar.projectName>My Maven Application</sonar.projectName>
   </properties>
   <build>
     <pluginManagement>
